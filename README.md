@@ -3,7 +3,7 @@
 I’m an Electronics and Communication Engineering (ECE) student with a strong interest in problem-solving, algorithms, and writing clean, efficient code.  
 Currently focused on mastering **C++ and core Data Structures & Algorithms**, I enjoy tackling challenges that strengthen my programming fundamentals.
 
-- **Learning:** Deepening knowledge of C++, data structures, and algorithm design  
+- **Learning:** Deepening knowledge of C++, javascript and electronics tools   
 - **Creating:** Implementing small programs, solving algorithm challenges, and building mini-projects  
 - **Aiming For:** A strong technical foundation and the skills to become a confident, reliable software engineer
 
