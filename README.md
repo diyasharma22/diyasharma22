@@ -1,31 +1,23 @@
 ## About Me
 
-<!--
-**diyasharma22/diyasharma22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Electronics and Communication Engineering (ECE) student with a strong interest in problem-solving, algorithms, and writing clean, efficient code.  
+Currently focused on mastering **C++ and core Data Structures & Algorithms**, I enjoy tackling challenges that strengthen my programming fundamentals.
 
-Here are some ideas to get you started:
+- **Learning:** Deepening knowledge of C++, data structures, and algorithm design  
+- **Creating:** Implementing small programs, solving algorithm challenges, and building mini-projects  
+- **Aiming For:** A strong technical foundation and the skills to become a confident, reliable software engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I’m an Electronics and Communication Engineering (ECE) student with a strong interest in problem-solving, algorithms, and writing clean, efficient code.
-Currently, I’m focused on mastering C++ and core Data Structures & Algorithms, while building a solid foundation that bridges ECE concepts with software development.
+---
 
-Learning: C++, data structures, algorithms, and computational problem-solving
+## Featured Repositories
 
-Creating: Small programs, algorithmic solutions, and mini-projects that strengthen fundamentals
+- **[Smart.Assessment.App](https://github.com/diyasharma22/Smart.Assessment.App)** —  
+  Interactive smart assessment web application built using JavaScript.
 
-Aiming For: A strong technical foundation and the skills to grow into a confident, reliable software engineer
 
-##Featured Repositories
+---
 
-- **[Smart.Assessment.App](https://github.com/diyasharma22/Smart.Assessment.App)**  
-  Web-based smart assessment application built using JavaScript to create interactive and dynamic evaluations.  
-  Designed to enhance digital assessment workflows with a clean UI and modular logic.  
-  *Tech Stack:* JavaScript | CodeSandbox
+## Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/diyasharma22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/diya-sharma-813973324)
