@@ -23,7 +23,7 @@ Creating: Small programs, algorithmic solutions, and mini-projects that strength
 
 Aiming For: A strong technical foundation and the skills to grow into a confident, reliable software engineer
 
-#Featured Repositories
+##Featured Repositories
 
 - **[Smart.Assessment.App](https://github.com/diyasharma22/Smart.Assessment.App)**  
   Web-based smart assessment application built using JavaScript to create interactive and dynamic evaluations.  
