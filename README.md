@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 <!--
 **diyasharma22/diyasharma22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m an Electronics and Communication Engineering (ECE) student with a strong interest in problem-solving, algorithms, and writing clean, efficient code.
+Currently, I’m focused on mastering C++ and core Data Structures & Algorithms, while building a solid foundation that bridges ECE concepts with software development.
+
+Learning: C++, data structures, algorithms, and computational problem-solving
+
+Creating: Small programs, algorithmic solutions, and mini-projects that strengthen fundamentals
+
+Aiming For: A strong technical foundation and the skills to grow into a confident, reliable software engineer
