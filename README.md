@@ -22,3 +22,10 @@ Learning: C++, data structures, algorithms, and computational problem-solving
 Creating: Small programs, algorithmic solutions, and mini-projects that strengthen fundamentals
 
 Aiming For: A strong technical foundation and the skills to grow into a confident, reliable software engineer
+
+#Featured Repositories
+
+- **[Smart.Assessment.App](https://github.com/diyasharma22/Smart.Assessment.App)**  
+  Web-based smart assessment application built using JavaScript to create interactive and dynamic evaluations.  
+  Designed to enhance digital assessment workflows with a clean UI and modular logic.  
+  *Tech Stack:* JavaScript | CodeSandbox
