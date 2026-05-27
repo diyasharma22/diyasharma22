@@ -35,4 +35,3 @@ I build things that work in the real world — firmware, hardware, and the softw
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diya-sharma-813973324)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:diyasharma130905@gmail.com)
