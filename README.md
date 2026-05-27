@@ -1,25 +1,38 @@
-## About Me
+## Hi, I'm Diya 👋
 
-I’m an Electronics and Communication Engineering (ECE) student who enjoys building and experimenting with software projects. I like turning ideas into working applications and learning through hands-on coding rather than purely theoretical problem sets.
+**ECE (AI & Cybernetics) @ VIT Bhopal** | Embedded Systems · IoT · Edge AI
 
-My current focus is on improving my programming skills in **C++ and JavaScript**, exploring practical applications through small projects, and understanding how software systems can be designed clearly and efficiently.
-
-- **Learning:** Programming fundamentals, C++, JavaScript, and core software and hardware concepts  
-- **Creating:** Web-based applications, mini-projects, and functional prototypes  
-- **Aiming For:** Strong practical coding skills and readiness for software-focused internships
-
+I build things that work in the real world — firmware, hardware, and the software around them.
 
 ---
 
-## Featured Repositories
+## 🔧 What I've Built
 
-- **[Smart.Assessment.App](https://github.com/diyasharma22/Smart.Assessment.App)** —  
-  Interactive smart assessment web application built using JavaScript.
-
+| Project | Tech | Status |
+|---|---|---|
+| 🚨 [Women Safety IoT Wearable](https://github.com/diyasharma22/women-safety-iot) | ESP32, Neo-6M GPS, SIM800L GSM, C++ | ✅ Complete |
+| 🦾 [Gesture Controlled Robotic Arm](https://github.com/diyasharma22/gesture-robotic-arm) | Arduino Nano, MPU6050, Servo Motors, I2C | ✅ Complete |
+| 📊 [Smart Assessment Web App](https://github.com/diyasharma22/Smart.Assessment.App) | HTML, CSS, JavaScript | ✅ Complete |
 
 ---
 
-## Let's Connect
+## 🛠️ Tech I Actually Use
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/diyasharma22)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/diya-sharma-813973324)
+**Embedded:** `ESP32` `Arduino` `C++` `I2C` `UART` `TinyGPS++` `AT Commands`  
+**Software:** `Python` `Pandas` `NumPy` `JavaScript` `HTML/CSS`  
+**Tools:** `Arduino IDE` `Git` `VS Code` `Jupyter Notebook`
+
+---
+
+## 🌱 Currently
+
+- 🔍 Contributing to open source via **GirlScript Summer of Code**
+- 📚 Strengthening DSA in C++
+- 🤖 Exploring **TinyML / Edge AI** on microcontrollers
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diya-sharma-813973324)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:diyasharma130905@gmail.com)
