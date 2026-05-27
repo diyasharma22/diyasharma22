@@ -10,8 +10,8 @@ I build things that work in the real world — firmware, hardware, and the softw
 
 | Project | Tech | Status |
 |---|---|---|
-| 🚨 [Women Safety IoT Wearable](https://github.com/diyasharma22/women-safety-iot) | ESP32, Neo-6M GPS, SIM800L GSM, C++ | ✅ Complete |
-| 🦾 [Gesture Controlled Robotic Arm](https://github.com/diyasharma22/gesture-robotic-arm) | Arduino Nano, MPU6050, Servo Motors, I2C | ✅ Complete |
+| 🚨 [Women Safety IoT Wearable](https://github.com/diyasharma22/women-safety-wearable-device) | ESP32, Neo-6M GPS, SIM800L GSM, C++ | ✅ Complete |
+| 🦾 [Gesture Controlled Robotic Arm](https://github.com/diyasharma22/vision-based-gesture-controlled-robotic-arm) | Arduino Nano, MPU6050, Servo Motors, I2C | ✅ Complete |
 | 📊 [Smart Assessment Web App](https://github.com/diyasharma22/Smart.Assessment.App) | HTML, CSS, JavaScript | ✅ Complete |
 
 ---
