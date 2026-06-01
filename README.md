@@ -1,16 +1,27 @@
 <h1 align="center">Hi 👋, I'm Diya Sharma</h1>
-
-<h3 align="center">
-Embedded Systems • IoT • Edge AI • Open Source
-</h3>
+<h3 align="center">Embedded Systems &nbsp;·&nbsp; IoT &nbsp;·&nbsp; Edge AI &nbsp;·&nbsp; Chrome Extensions &nbsp;·&nbsp; Open Source</h3>
 
 <p align="center">
-I enjoy building real-world tech that connects hardware and software — from IoT devices and embedded systems to smart web applications and AI-powered solutions.
+  <img src="https://img.shields.io/badge/Open%20to-Internships-blue?style=flat-square&logo=briefcase" />
+</p>
+
+<p align="center">
+I build real-world tech that bridges hardware and software — from IoT wearables and gesture-controlled arms to browser extensions and AI-powered web apps.
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🛑 Doomscroll Stopper &nbsp; `NEW ✨`
+🔹 Chrome extension that tracks time on Instagram, YouTube, Twitter, Reddit, Facebook & TikTok.  
+🔹 Shows a break overlay after 10 min of continuous scrolling, weekly stats dashboard, custom daily limits per site, desktop notifications & a streak tracker.
+
+**Tech:** `JavaScript` `Chrome Extensions API` `Manifest V3` `Chrome Storage API` `HTML/CSS`
+
+🔗 https://github.com/diyasharma22/doomscroll-stopper
+
+---
 
 ### 🚨 Women Safety IoT Wearable
 🔹 Emergency SOS & GPS tracking wearable using ESP32, GSM & GPS modules.  
@@ -23,8 +34,8 @@ I enjoy building real-world tech that connects hardware and software — from Io
 ---
 
 ### 🦾 Gesture Controlled Robotic Arm
-🔹 Vision & motion-based robotic arm controlled using sensors and servo motors.  
-🔹 Built with embedded communication protocols and real-time control.
+🔹 Vision & motion-based robotic arm controlled by hand gestures via IMU sensors and servo motors.  
+🔹 Built with embedded communication protocols and real-time I2C control.
 
 **Tech:** `Arduino Nano` `MPU6050` `Servo Motors` `I2C`
 
@@ -53,6 +64,7 @@ I enjoy building real-world tech that connects hardware and software — from Io
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
@@ -62,11 +74,11 @@ I enjoy building real-world tech that connects hardware and software — from Io
 ---
 
 ## 🌱 Currently Exploring
-
 - 🔍 Open Source Contributions
 - 📚 Data Structures & Algorithms in C++
 - 🤖 TinyML & Edge AI on Microcontrollers
 - ⚡ Real-time Embedded Systems
+- 🧩 Browser Extension Development
 
 ---
 
@@ -74,7 +86,6 @@ I enjoy building real-world tech that connects hardware and software — from Io
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diyasharma22&show_icons=true&theme=tokyonight" height="170"/>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diyasharma22&theme=tokyonight" height="170"/>
 </p>
 
@@ -83,15 +94,12 @@ I enjoy building real-world tech that connects hardware and software — from Io
 ## 📬 Connect With Me
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/diya-sharma-813973324">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/diyasharma22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
