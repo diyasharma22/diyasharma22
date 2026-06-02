@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diya Sharma</h1>
 <h3 align="center">Embedded Systems &nbsp;·&nbsp; IoT &nbsp;·&nbsp; Edge AI &nbsp;·&nbsp; Chrome Extensions &nbsp;·&nbsp; Open Source</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-blue?style=flat-square&logo=briefcase" />
-</p>
 
 <p align="center">
 I build real-world tech that bridges hardware and software — from IoT wearables and gesture-controlled arms to browser extensions and AI-powered web apps.
