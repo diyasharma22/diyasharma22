@@ -86,14 +86,11 @@ I build real-world tech that bridges hardware and software — from IoT wearable
 
 ## 🌱 Open Source — GSSoC 2026
 
-Contributing to [`imDarshanGK/AI-dev-assistant`](https://github.com/imDarshanGK/AI-dev-assistant) — writing OpenAPI/Swagger documentation and architecture docs for a FastAPI backend.
-
 - ✅ Merged: `docs: add ARCHITECTURE.md for new contributors`
 - 🔄 Open (review pending): OpenAPI schema docs, Pydantic field descriptions, debugging router metadata
 
 ## 🧮 Practice & Learning
 
-- [LeetCode-Solutions](https://github.com/diyasharma22/LeetCode-Solutions) — DSA problem-solving in Java
 - [forage-midas](https://github.com/diyasharma22/forage-midas) — Spring Boot + REST API integration (JPMorgan Forage simulation)
 
 ---
