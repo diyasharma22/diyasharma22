@@ -52,23 +52,6 @@ I build real-world tech that bridges hardware and software — from IoT wearable
 
 ---
 
-### 🎓 College Discovery Platform
-🔹 React-based college listing & search platform with compare tool and a JEE/NEET/CAT/CLAT rank-based predictor.
-
-**Tech:** React · TypeScript
-
-🔗 https://github.com/diyasharma22/college-discovery-platform
-
----
-
-### 📊 Smart Assessment Web App
-🔹 Interactive assessment platform with responsive UI and smart evaluation logic.
-
-**Tech:** HTML · CSS · JavaScript
-
-🔗 https://github.com/diyasharma22/Smart.Assessment.App
-
----
 
 ## 💼 Experience
 
