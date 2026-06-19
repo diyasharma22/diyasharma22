@@ -1,6 +1,6 @@
 # Hi, I'm Diya 👋
 
-### Software Engineer in training | ECE (AI & Cybernetics) @ VIT Bhopal | Building across AI, web, and embedded systems
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+in+training;ECE+(AI+%26+Cybernetics)+%40+VIT+Bhopal;Building+across+AI%2C+Web+%26+Embedded+Systems)](https://git.io/typing-svg)
 
 ---
 
@@ -43,6 +43,14 @@
 - **[Vision-Based Gesture-Controlled Robotic Arm](https://github.com/diyasharma22/vision-based-gesture-controlled-robotic-arm)** — Real-time hand gesture recognition controlling a robotic arm via OpenCV, MediaPipe, Python, and Arduino Nano.
 - **[SafePulse — Women's Safety Wearable](https://github.com/diyasharma22/women-safety-wearable-device)** — IoT-based wearable emergency SOS and GPS tracking device using ESP32, SIM800L, and Neo-6M GPS.
 - **[Doomscroll Stopper](https://github.com/diyasharma22/doomscroll-stopper)** — Chrome extension to curb mindless scrolling.
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/diyasharma22/diyasharma22/output/github-contribution-grid-snake.svg)
+
+*(Set up via GitHub Actions — see SNAKE-SETUP.md for the one-time workflow file)*
 
 ---
 
