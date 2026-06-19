@@ -42,7 +42,7 @@ I build real-world tech that bridges hardware and software — from IoT wearable
 
 ## 💼 Experience
 
-- **Front-End AI Engineering Intern**, FlyRank AI — *Jul 2026 – Present (Remote)*
+- **Front-End AI Engineering Intern**, FlyRank AI — *Jun 2026 – Present (Remote)*
 - **Data Science & ML Intern**, Finlatics — *Jul 2025 – Sep 2025 (Remote)*
 
 ## 📜 Job Simulations & Certifications
