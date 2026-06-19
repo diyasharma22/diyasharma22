@@ -63,5 +63,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=F7A8C4)](https://www.linkedin.com/in/diya-sharma-813973324/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-B19CD9?style=for-the-badge&logo=vercel&logoColor=800020)](https://diyasharma22.github.io/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-E75480?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/diyasharmaaa_)
 [![GitHub](https://img.shields.io/badge/GitHub-6D213C?style=for-the-badge&logo=github&logoColor=F0E6FA)](https://github.com/diyasharma22)
