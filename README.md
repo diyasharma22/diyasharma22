@@ -50,9 +50,10 @@
 
 ![Snake animation](https://raw.githubusercontent.com/diyasharma22/diyasharma22/output/github-contribution-grid-snake.svg)
 
-*(Set up via GitHub Actions — see SNAKE-SETUP.md for the one-time workflow file)*
+
 
 ---
+
 
 ### 🌐 Connect with me
 
