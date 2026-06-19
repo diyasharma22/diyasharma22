@@ -9,19 +9,6 @@ I build real-world tech that bridges hardware and software — from IoT wearable
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏆 D_CertVault — AI-Powered Certificate Management Platform `IN PROGRESS`
-🔹 Full-stack platform to upload, organize, and showcase certificates with AI-powered metadata extraction.
-🔹 Smart vault with searchable categories, public/private profile controls, and shareable portfolio pages.
-🔹 Planned: LinkedIn/GitHub integrations, AI-driven resume insights and career recommendations.
-
-**Tech:** Next.js · TypeScript · Prisma · PostgreSQL · Neon · OpenAI · Tailwind CSS
-
-🔗 https://github.com/diyasharma22/D_CertVault
-
----
-
 ### 🛑 Doomscroll Stopper
 🔹 Chrome extension (Manifest V3) that tracks time on Instagram, YouTube, Twitter/X, Reddit, Facebook & TikTok.
 🔹 Break-reminder overlay after 10 min of continuous scrolling, weekly stats dashboard, custom daily limits, desktop notifications, and a streak tracker.
