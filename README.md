@@ -1,6 +1,6 @@
 # Hi 👋, I'm Diya Sharma
 
-**B.Tech ECE (AI & Cybernetics) @ VIT Bhopal · Python · C++ · TypeScript · Java · Building scalable software systems**
+**Python · C++ · TypeScript · Java · Building scalable software systems**
 
 I build real-world tech that bridges hardware and software — from IoT wearables and gesture-controlled robotic arms to AI-powered web platforms, Chrome extensions, and open-source contributions to backend systems.
 
