@@ -1,4 +1,4 @@
-# Hi, I'm Diya 👋 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" alt="Cat" width="32" height="32" />
+# Hi, I'm Diya 👋 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E75480&center=true&vCenter=true&width=600&lines=Software+%2B+Hardware%2C+Built+Together;ECE+(AI+%26+Cybernetics)+%40+VIT+Bhopal;From+ESP32+Firmware+to+Full-Stack+AI+Apps)](https://git.io/typing-svg)
 
@@ -40,9 +40,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diyasharma22&layout=compact&hide_border=true&bg_color=135,F0E6FA,FADCE9&title_color=800020&text_color=6D213C&border_color=E75480)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diyasharma22&hide_border=true&background=135,F0E6FA,FADCE9&ring=E75480&fire=800020&currStreakNum=800020&sideNums=6D213C&currStreakLabel=B19CD9&sideLabels=6D213C&dates=9B6FA3&border=E75480)
 
-### 🏆 Trophy Case
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=diyasharma22&theme=flat&no-frame=true&margin-w=8&margin-h=8&column=4)
 
 ---
 
