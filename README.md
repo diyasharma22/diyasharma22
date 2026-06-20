@@ -40,6 +40,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diyasharma22&layout=compact&hide_border=true&bg_color=135,F0E6FA,FADCE9&title_color=800020&text_color=6D213C&border_color=E75480)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diyasharma22&hide_border=true&background=135,F0E6FA,FADCE9&ring=E75480&fire=800020&currStreakNum=800020&sideNums=6D213C&currStreakLabel=B19CD9&sideLabels=6D213C&dates=9B6FA3&border=E75480)
 
+### 🏆 Trophy Case
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=diyasharma22&theme=flat&no-frame=true&margin-w=8&margin-h=8&column=4)
+
 ---
 
 ### 🚀 Featured Projects
@@ -54,7 +58,6 @@
 ### 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/diyasharma22/diyasharma22/output/github-contribution-grid-snake.svg)
-
 
 
 ---
